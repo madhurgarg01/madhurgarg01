@@ -86,14 +86,8 @@
 ## 📈 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/madhurr_yk">
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces" />
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-5%E2%AD%90-2EC866?style=for-the-badge&logo=hackerrank" />
   </a>
 </p>
 
@@ -108,3 +102,8 @@
 📊 Data Science and Machine Learning
 ☁️ Cloud Computing (AWS)
 ```
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/madhurgarg01/madhurgarg01/output/snake.svg" alt="Snake animation" />
+</p>
