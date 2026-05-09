@@ -1,33 +1,110 @@
-![logo](https://github.com/madhurgarg01/madhurgarg01/blob/main/canva.png)
-
-<h1 align="center">Hi 👋, I'm Madhur Garg</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="right" alt="Coding GIF" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhurgarg01&label=Profile%20views&color=0e75b6&style=flat" alt="madhurgarg01" /> </p>
-
-- 🌱 I’m currently learning **DSA(cp), Backend Technologies**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-madhur.netlify.app/](https://portfolio-madhur.netlify.app/)
-
-- 💬 Ask me about **JavaScript, Html, CSS, React.JS, Typescript**
-
-- 📫 How to reach me **madhurgarg052@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CURFtMr1HLP1G_SbxSObVJrrVxPAOQwq/view?usp=sharing](https://drive.google.com/file/d/1CURFtMr1HLP1G_SbxSObVJrrVxPAOQwq/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/madhur-garg-2360a831a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/madhur-garg-2360a831a/" height="30" width="40" /></a>
-<a href="https://instagram.com/madhur.garg01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madhur.garg01" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=220&section=header&text=Madhur%20Garg&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20Data%20Science%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Madhur+Garg;B.Tech+CSE+Student+at+MAIT+Delhi;Frontend+Developer+%7C+Data+Science+Explorer;DSA+%26+Competitive+Programming+Learner;Building+Projects+That+Create+Impact" alt="Typing SVG" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhurgarg01&show_icons=true&locale=en&layout=compact" alt="madhurgarg01" /></p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=madhurgarg01">
+    <img src="https://komarev.com/ghpvc/?username=madhurgarg01&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/madhurgarg01?tab=followers">
+    <img src="https://img.shields.io/github/followers/madhurgarg01?label=Followers&style=for-the-badge&color=2563eb" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-22c55e?style=for-the-badge" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhurgarg01&show_icons=true&locale=en" alt="madhurgarg01" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhurgarg01&" alt="madhurgarg01" /></p>
+## 🌟 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 🎓 B.Tech CSE Student at **Maharaja Agrasen Institute of Technology (MAIT), Delhi**
+- 🌱 Currently learning **DSA, Competitive Programming, Backend Development, and Data Science**
+- 💻 Passionate about building projects using **React, TypeScript, Node.js, and Python**
+- 🏆 Hackathon enthusiast who loves solving real-world problems
+- 📈 Exploring **AI/ML, Cloud Computing, and Blockchain**
+- 🎯 Goal: Become a top Software Engineer and build impactful products
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,aws,figma,vscode,anaconda,scikitlearn&perline=10" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 KrishiSetu 2.0
+> AI-powered farming assistant that recommends crops, fertilizers, and market insights.
+
+**Tech Stack:** React.js • Firebase • APIs • Machine Learning
+
+### ⚖️ NyaySetu AI
+> AI-powered legal assistant with multilingual support, document analysis, and legal consultation.
+
+**Tech Stack:** React • Node.js • AI APIs
+
+### 🌐 Portfolio Website
+> Personal portfolio showcasing projects, skills, and achievements.
+
+🔗 https://portfolio-madhur.netlify.app/
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=madhurgarg01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhurgarg01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=madhurgarg01&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhurgarg01&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=madhurgarg01&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://codeforces.com/">
+    <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces" />
+  </a>
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-5%E2%AD%90-2EC866?style=for-the-badge&logo=hackerrank" />
+  </a>
+</p>
+
+---
+
+## 🧠 Current Focus
+
+```text
+📚 Data Structures & Algorithms
+⚛️ Advanced React & TypeScript
+🛠️ Backend with Node.js & Express
+📊 Data Science and Machine Learning
+☁️ Cloud Computing (AWS)
+```
